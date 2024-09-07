@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Farhan%20Nazir/Classification-of-Diabetic-Patients/mlruns/637006991232950144/2a33c7e679e04aa0814d366e3cc5910a/artifacts
+end_time: 1725687216123
+entry_point_name: ''
+experiment_id: '637006991232950144'
+lifecycle_stage: active
+run_id: 2a33c7e679e04aa0814d366e3cc5910a
+run_name: Logistic Regression
+run_uuid: 2a33c7e679e04aa0814d366e3cc5910a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725687202174
+status: 3
+tags: []
+user_id: Farhan Nazir

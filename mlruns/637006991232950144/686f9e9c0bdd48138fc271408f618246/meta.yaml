@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Farhan%20Nazir/Classification-of-Diabetic-Patients/mlruns/637006991232950144/686f9e9c0bdd48138fc271408f618246/artifacts
+end_time: 1725687232193
+entry_point_name: ''
+experiment_id: '637006991232950144'
+lifecycle_stage: active
+run_id: 686f9e9c0bdd48138fc271408f618246
+run_name: XGBClassifier With SMOTE
+run_uuid: 686f9e9c0bdd48138fc271408f618246
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725687226927
+status: 3
+tags: []
+user_id: Farhan Nazir
